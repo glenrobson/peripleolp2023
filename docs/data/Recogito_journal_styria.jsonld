@@ -1,4 +1,4 @@
-{
+[ {
   "@context" : "http://www.w3.org/ns/anno.jsonld",
   "id" : "https://recogito.pelagios.org/annotation/6a16a2c9-9ecf-4eb2-8fcc-9db4f9b3b8d6",
   "type" : "Annotation",
@@ -15114,4 +15114,4 @@
       "exact" : "Carinthia"
     } ]
   }
-}
+} ]
